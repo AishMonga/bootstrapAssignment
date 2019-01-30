@@ -1,0 +1,14 @@
+.titleDiv {
+  text-align: center;
+  background-color: whitesmoke;
+}
+footer {
+  color: slategrey;
+}
+.threeCol {
+  margin-top: 40px;
+  text-align: center;
+}
+.canvasDiv {
+  margin-top: 50%;
+}
